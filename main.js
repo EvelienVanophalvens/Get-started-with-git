@@ -1,5 +1,5 @@
 function doSomething(){
-console.log("I am doing something");
+console.log("I am doing somethings");
 }
 
 doSomething();
